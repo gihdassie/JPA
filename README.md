@@ -1,7 +1,7 @@
 # JPA
 Aula da disciplina de Ferramentas de Programação I
 
-JPA
+Anotações
 - @Entity
 - @Table
 - @Id
